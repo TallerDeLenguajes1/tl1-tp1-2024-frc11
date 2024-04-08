@@ -7,3 +7,5 @@
 - Pregunta 3
  - C
  Se ve el archivo README.md, tp1_1.cpp y tp1_1.exe, yo creo que no haria falta que este el ejecutable .exe
+ - G
+Es igual puesto que es el mismo codigo, y se hace el mismo proceso para subirlo 
